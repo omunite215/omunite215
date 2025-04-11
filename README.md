@@ -5,10 +5,10 @@
 
 <p align="center">
   <em>
-    Myself <b>Om Patel</b>, a final year <b>Computer Science</b> graduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
+    Myself <b>Om Patel</b>, a B.Tech <b>Computer Science</b> graduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
     An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+  <b><i>"---The chasm between triumph & defeat is often bridged by a solitary attempt.---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
